@@ -1,2 +1,2 @@
-# afp
 # AI
+AI - Alpha investment
